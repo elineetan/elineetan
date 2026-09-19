@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20ini%20Eline&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20Angeline%20Cherish%20Tanisha&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">Angeline</h1>
+<h1 align="center">Eline</h1>
 <p align="center">Peserta Workshop Git & GitHub</p>
 
 ---
@@ -11,8 +11,8 @@
 
 - *Pekerjaan Saat ini*: Mahasiswa
 - *Sedang mendalami*: Git & GitHub Workflow
-- *Target*: Menjadi Frontend Developer profesional
-- *Fun fact*: [isi sesuatu yang unik tentang kamu]
+- *Target*: Paham sedikit tentang coding
+- *Fun fact*: Ga ada
 
 ---
 
@@ -44,10 +44,10 @@
 
 ---
 
-### GitHub Stats (opsional)
+### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elineetan&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <!--
